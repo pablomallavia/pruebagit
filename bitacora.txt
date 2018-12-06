@@ -6,3 +6,15 @@ paso 5: git checkout Historia000
 
 paso 11: git stash
          git checkout Historia000
+
+
+
+
+aaaaaaaa
+a
+
+a
+a
+a
+a
+a
