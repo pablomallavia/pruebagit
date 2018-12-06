@@ -12,7 +12,5 @@ paso 11: git stash
 
 aaaaaaaa
 aaaaaaaaa
-a
-a
-a
-aa
+
+hola caracola
